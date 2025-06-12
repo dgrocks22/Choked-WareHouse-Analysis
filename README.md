@@ -1,4 +1,4 @@
-Choked Hubs Prioritization by Dwiz Garg  (datasetL:https://drive.google.com/file/d/1YiFaiq2L1yQSMQrAQ8ERBgSJ21OQ89cs/view?usp=sharing)
+Choked Hubs Prioritization by Dwiz Garg & Abhav Gupta (datasetL:https://drive.google.com/file/d/1YiFaiq2L1yQSMQrAQ8ERBgSJ21OQ89cs/view?usp=sharing)
 
 1.	Data Visualisation 
 a)	In this assignment I first parsed the json file using sql , the code is given in the sql file itself
